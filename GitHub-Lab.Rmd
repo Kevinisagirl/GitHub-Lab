@@ -3,6 +3,8 @@ title: "GitHub Lab"
 author: "Mackenzie Gray, Adriana Souza"
 date: "February 8th, 2018"
 output:
+  html_document:
+    toc: yes
   html_notebook:
     highlight: tango
     mathjax: null
@@ -97,6 +99,8 @@ For that, take a look at the options `Diff`, `Commit`, `Pull`, `Push`, `History`
 Git keeps track of changes to tracked files in the background. These changes must be `stage`d before they can be committed. In RStudio, this is done using the checkboxes next to each file in the Git pane.
 
 1. __Edit this file and stage the changes, but do not commit your changes.__
+
+Kevinisagirl makin a change
 
 #### Diff {-}
 
