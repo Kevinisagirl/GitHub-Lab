@@ -105,6 +105,8 @@ Git keeps track of changes to tracked files in the background. These changes mus
 1. __Click `diff` and view the changes you made, but do not commit anything.__
 
 
+line one
+l 3
 
 #### Commit {-}
 
