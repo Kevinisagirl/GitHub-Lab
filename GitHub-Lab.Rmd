@@ -101,6 +101,7 @@ Git keeps track of changes to tracked files in the background. These changes mus
 1. __Edit this file and stage the changes, but do not commit your changes.__
 
 Kevinisagirl makin a change
+line1
 
 #### Diff {-}
 
