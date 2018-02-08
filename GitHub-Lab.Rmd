@@ -111,6 +111,8 @@ line2
 1. __Click `diff` and view the changes you made, but do not commit anything.__
 
 
+line one
+l 3
 
 #### Commit {-}
 
