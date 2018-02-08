@@ -102,6 +102,7 @@ Git keeps track of changes to tracked files in the background. These changes mus
 
 Kevinisagirl makin a change
 line1
+line2
 
 #### Diff {-}
 
